@@ -7,7 +7,7 @@ Should you not need `bundler` you can kick it out and save another MB.
 
 Run a container from this image like:
 
-`docker run ruby/tiny`
+`docker run --rm mwendler/ruby.tiny`
 
 which should display the installed ruby version:
 
