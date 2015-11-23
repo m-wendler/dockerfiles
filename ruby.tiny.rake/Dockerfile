@@ -11,7 +11,7 @@ MAINTAINER  Mike
 # install rake
 RUN            apk update \
             && apk upgrade \
-            && gem install rake --no-document
+            && gem install rake --no-document \
             \
                # clean up after use ...
             && rm /var/cache/apk/*
