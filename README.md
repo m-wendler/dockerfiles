@@ -1,3 +1,8 @@
 
 # dockerfiles
-Dockerfiles for images that I use
+Dockerfiles for images I use:
+
+ * ruby
+ * packer
+ *
+ * (more to come soon ...
