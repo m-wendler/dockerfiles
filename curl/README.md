@@ -1,6 +1,6 @@
 # A very tiny curl setup
 
-based on alpine. The complete image is just ofer 8 MB big ...
+based on alpine. The complete image is just over 8 MB big ...
 
 Run a container from this image like:
 
