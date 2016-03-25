@@ -9,7 +9,11 @@ Run a container from this image like:
 
 which should display the installed jq version:
 
-    jq-1.5
+```
+jq - commandline JSON processor [version 1.5]
+Usage: /usr/local/bin/jq [options] <jq filter> [file...]
+...
+```
 
 
 
