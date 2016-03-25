@@ -1,6 +1,7 @@
 # A minimal [jq](https://stedolan.github.io/jq/) setup
 
-based on [alpine](https://hub.docker.com/_/alpine/). The complete image is just over 10 MB big ...
+based on [alpine](https://hub.docker.com/_/alpine/).
+The complete image is just over 10 MB big ... ([![](https://badge.imagelayers.io/mwendler/jq:latest.svg)](https://imagelayers.io/?images=mwendler/jq:latest 'Get your own badge on imagelayers.io'))
 
 Run a container from this image like:
 
