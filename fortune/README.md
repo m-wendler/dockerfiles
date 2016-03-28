@@ -1,6 +1,6 @@
 # A *fortune* setup
 
-based on debian:wheezy.
+based on debian:wheezy. ([![](https://badge.imagelayers.io/mwendler/fortune:latest.svg)](https://imagelayers.io/?images=mwendler/fortune:latest 'Get your own badge on imagelayers.io'))
 
 Run a container from this image like:
 
