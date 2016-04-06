@@ -23,7 +23,7 @@ _______
 
 * Create an alias like:
 
-    ```alias cowsay='docker run --rm mwendler/cowsay'```
+    ```alias cowsay='docker run -i --rm mwendler/cowsay'```
 
 * use it from the command line, e.g.:
 

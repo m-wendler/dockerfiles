@@ -21,7 +21,7 @@ which should display:
 
 * Create an alias like:
 
-    ```alias figlet='docker run --rm mwendler/figlet'```
+    ```alias figlet='docker run -i --rm mwendler/figlet'```
 
 * use it from the command line, e.g.:
 
